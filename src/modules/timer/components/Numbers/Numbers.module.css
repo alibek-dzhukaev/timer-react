@@ -1,0 +1,10 @@
+.numbers {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.numbers_item {
+    text-align: center;
+    text-transform: uppercase;
+}
